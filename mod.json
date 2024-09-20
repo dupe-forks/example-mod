@@ -7,8 +7,8 @@
 		"ios": "2.206"
 	},
 	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
+	"name": "JumpBot",
+	"version": "v1.0.0",
+	"developer": "Entity12208",
 	"description": "$MOD_DESCRIPTION"
 }
